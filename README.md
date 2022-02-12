@@ -1,6 +1,6 @@
 ## A Webpage using HTML and JavaScript
 
-⚡️ Iniya Rajasekhar
-⚡️ Grade X
+⚡️ Iniya Rajasekhar<br>
+⚡️ Grade X<br>
 ⚡️ Alpha International School
 
