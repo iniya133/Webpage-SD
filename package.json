@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/iniya133/Digitalization"
   },
   "keywords": [],
   "author": "Iniya Rajasekhar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/iniya133/Digitalization/issues"
   },
   "homepage": "http://iniya133.github.io/Digitalization",
   "devDependencies": {
